@@ -1,7 +1,7 @@
 - 👋 Hello there, Welcome!
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YavarYeganeh&show_icons=true" alt="YavarYeganeh" /></p>
 <br>
-<img src="https://komarev.com/ghpvc/?username=YavarYeganeh&color=brightgreen" alt="watching_count" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YavarYeganeh&color=brightgreen" alt="watching_count" />
 
 <!---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YavarYeganeh&hide=css,html,ejs&layout=compact" alt="YavarYeganeh" /> </p>
